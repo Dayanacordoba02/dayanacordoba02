@@ -1,11 +1,11 @@
 <div align="center">
-<h1 align="center">Hello, soy <a Dayana</a> 👋</h1>
+<h1 align="center">Hello, I'm Dayana <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/> </h1>
 </div>
-<img src="">
+
 
 ## 👩‍💻 About Me
 
-My mission is to ensure that software not only works but provides flawless experiences. 🛠️✨
+My mission is to ensure that the software not only works but also meets the highest standards of quality and performance. 🛠️✨
 
 🌟 **Passionate about:**
 - **Automating** tests for speed and efficiency.
