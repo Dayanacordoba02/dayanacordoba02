@@ -3,7 +3,7 @@
 </div>
 <img src="https://i.imgur.com/Fpj94ez.png">
 
-## 👩‍💻 A little about me...
+## 👩‍💻 About me
 
 ```javascript
 const qaengineer = {
