@@ -3,21 +3,32 @@
 </div>
 <img src="https://i.imgur.com/Fpj94ez.png">
 
-## 👩‍💻 About Me
+## 👩‍💻 A little about me...
 
-My mission is to ensure that the software not only works but also meets the highest standards of quality and performance. 🛠️✨
+```javascript
+const qaengineer = {
+  name: "Dayana",
+  pronouns: "she" | "her",
+  expertise: ["Manual Testing", "Test Automation"],
+  tools: ["Serenity BDD", "Karate", "Selenium", entre otras],
+  testingApproach: ["Functional Testing", "Regression Testing", "API Testing", "End-to-End Testing"],
+  mission: "To ensure software meets the highest standards of quality and performance.",
+  passion: [
+    "Automating tests for speed and efficiency",
+    "Validating every detail to guarantee quality in each release"
+  ],
+  challenge: "Exploring advanced test automation frameworks and techniques"
+}
+```
 
-🌟 **Passionate about:**
-- **Automating** tests for speed and efficiency.
-- **Validating** every detail to guarantee quality in each release.
+## ⚙️ GitHub analytics
 
-🛠️ **Favorite tools:**
-- **Serenity BDD**, **Karate**, **Selenium**.
-- **Qmetry** for managing manual tests.
+<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dayanacordoba02&layout=compact&theme=tokyonight" />
+<img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dayanacordoba02&theme=tokyonight" alt="Dayanacordoba02" />
+  
 
-🔗 **Let's connect:**
-- [LinkedIn](https://www.linkedin.com/in/dayana-c%C3%B3rdoba-132b23144) - Vamos a intercambiar ideas y experiencias.
-- [Portafolio](https://five-scourge-a4e.notion.site/Hola-soy-Dayana-959e507caa124c56aa4b3fda026110c1) - Donde comparto mis aprendizajes y cosas sobre mí.
-- [Correo](Dayanacordoba1002.dc@gmail.com) - Siempre feliz de colaborar.
+## 🔗 Connect with me
 
+ &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/dayanacordoba02/)   &nbsp; <a href="Dayanacordoba1001@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+  
 ✨ *"Quality is not optional, it’s essential."*
