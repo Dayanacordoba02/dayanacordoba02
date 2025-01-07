@@ -10,7 +10,7 @@ const qaengineer = {
   name: "Dayana",
   pronouns: "she" | "her",
   expertise: ["Manual Testing", "Test Automation"],
-  tools: ["Serenity BDD", "Karate", "Selenium", "entre otras"],
+  tools: ["Serenity BDD", "Karate", "Selenium", "among others"],
   testingApproach: ["Functional Testing", "Regression Testing", "API Testing", "End-to-End Testing"],
   mission: "To ensure software meets the highest standards of quality and performance.",
   passion: [
